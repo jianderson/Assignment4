@@ -1,7 +1,7 @@
 # Assignment4
 
 # Jillian Anderson
-# Data Structures Section 4
+# Data Structures Section 3
 # November 6, 2019
 
 # I partnered with SANIYA SYED
